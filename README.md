@@ -3,7 +3,7 @@
 # React Challenge: React Portfolio
 
 ## Live link
-https://github.com/Lreyes4/Lreyes4.github.io
+https://github.com/Lreyes4/React-Challenge---React-Portfolio
 ## Your Task
 
 Being a web developer means being part of a community. You’ll need a place not only to share your projects while you're applying for jobs or working as a freelancer but also to share your work with other developers and collaborate on projects.
