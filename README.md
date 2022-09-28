@@ -57,7 +57,6 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 The following screen shot shows the web application's appearance and functionality:
 
-![User clicks through About Me, Portfolio, Resume, and Contact sections on the webpage and enters information on Contact page.]
 (![readme photo](https://user-images.githubusercontent.com/103380089/192658537-cbf501bc-1b86-48f8-bd58-7708cb4f8f7a.JPG)
 )
 
