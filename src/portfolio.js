@@ -13,7 +13,7 @@ const about = {
   role: 'Dental Hygienist',
   description:
     'Dental hygienist aspiring to be a software engineer.',
-  resume: 'https://example.com',
+  resume: 'https://github.com/Lreyes4/React-Challenge---React-Portfolio',
   social: {
     linkedin: 'https://www.linkedin.com/in/liliana-reyes-b67357237',
     github: 'https://github.com/Lreyes4',
@@ -67,12 +67,9 @@ const skills = [
   'JavaScript',
   'TypeScript',
   'Express',
-  'MySQL',
+  'SQL',
   'MongoDB',
   'React',
-  'Redux',
-  'SASS',
-  'Material UI',
   'Git',
   'MERN',
 ]
