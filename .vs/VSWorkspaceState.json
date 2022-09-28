@@ -1,10 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\public",
     "\\src",
     "\\src\\components",
-    "\\src\\components\\Access"
+    "\\src\\components\\Access",
+    "\\src\\components\\Contact",
+    "\\src\\components\\Header",
+    "\\src\\components\\ProjectContainer",
+    "\\src\\components\\ScrollToTop",
+    "\\src\\components\\Skills",
+    "\\src\\contexts"
   ],
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }
