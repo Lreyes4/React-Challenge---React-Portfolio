@@ -3,7 +3,7 @@
 # React Challenge: React Portfolio
 
 ## Live link
-https://github.com/Lreyes4/React-Challenge---React-Portfolio
+https://lreyes4.github.io/React-Challenge---React-Portfolio/
 
 ## Your Task
 
